@@ -3,7 +3,7 @@
 - Checkout my current projects. Many more to come...
 - 📫 How to reach me: carmelbarwick@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love chess!! My online chess ratings are above 2200!! (most of the time)
+- ⚡ Fun fact: I love chess!! My online chess ratings are above 2200!!
 
 <!---
 Carmel-Jane/Carmel-Jane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
