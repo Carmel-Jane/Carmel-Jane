@@ -1,18 +1,16 @@
 👋 Hi, I’m @Carmel-Jane
 
-I'm a Northcoders Student and aspiring full stack junior software engineer.
-
 ## Projects
 
 Here are some of the projects I've worked on:
 
-- **Maltese Dictionary**
+- [**Maltese Dictionary**]( https://maltese-dictionary.netlify.app/ )
 
-- **Coffee Connoisseur App and Api**: A mobile application that allows users to search for coffee shops near them on a map and collect beans as a reward system. Users can leave reviews for the coffee shops, and post pictures of their coffee onto the coffee shop page. Check out the API here and the app here.
+- **Coffee Connoisseur App and Api**: A mobile application that allows users to search for coffee shops near them on a map and collect beans as a reward system. Users can leave reviews for the coffee shops, and post pictures of their coffee onto the coffee shop page.Check out the [API]( https://github.com/Status-200-Coffee/Coffee-Connoisseur-api ) and the [app]( https://github.com/Status-200-Coffee/Coffee-Connoisseur-app ).
 
-- **CJ News**: A social news aggregation, web content rating, and discussion website (utilises the Northcoders News API that I built)
+- [**CJ News**]( https://cj-nc-news.netlify.app ): A social news aggregation, web content rating, and discussion website (utilises the Northcoders News API that I built)
 
-- **Northcoders News API**: Reproducing the building of a real-world backend service (such as Reddit).
+- [**Northcoders News API**]( https://github.com/Carmel-Jane/cj-northcoders-news-api ): Reproducing the building of a real-world backend service (such as Reddit).
 
 Stay tuned for many more to come...
 
