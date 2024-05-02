@@ -4,7 +4,9 @@
 
 Here are some of the projects I've worked on:
 
-- [**Maltese Dictionary**]( https://maltese-dictionary.netlify.app/ )
+- [**UI/UX-Modern-App**](https://github.com/Carmel-Jane/UI-UX-modern-app): A modern responsive landing page, showcasing UI/UX principles, and capabilities of Tailwind CSS in bringing Figma and Excalidraw plans to life. Hosted [**here**](https://modern-website-example.netlify.app).
+
+- [**Maltese Dictionary**]( https://github.com/Carmel-Jane/maltese-dictionary ): An English to Maltese dictionary which utlises the Gabra API. Hosted [**here**](https://maltese-dictionary.netlify.app/)
 
 - **Coffee Connoisseur App and Api**: A mobile application that allows users to search for coffee shops near them on a map and collect beans as a reward system. Users can leave reviews for the coffee shops, and post pictures of their coffee onto the coffee shop page.Check out the [API]( https://github.com/Status-200-Coffee/Coffee-Connoisseur-api ) and the [app]( https://github.com/Status-200-Coffee/Coffee-Connoisseur-app ).
 
